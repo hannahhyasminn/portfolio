@@ -6,7 +6,8 @@ I am a recent graduate from University of Edinburgh. I majored in Mathematics an
 ## Education
 - BSc(Hons), Mathematics and Statistics | The University of Edinburgh (_July 2023_)
 
-## Projects
+## Academic Projects
+These are the projects that I worked on during my studies. Most of these projects are group projects.
 ### Spatiotemporal Wind Forecasting
 Developed blablabla
 
@@ -14,4 +15,5 @@ Developed blablabla
 
 ### Industrial maths
 
-### 
+## Personal Projects
+Here is the list of my personal projects. After graduating, Stay tuned for more updates!
